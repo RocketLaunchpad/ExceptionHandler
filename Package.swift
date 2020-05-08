@@ -38,8 +38,5 @@ let package = Package(
         .target(
             name: "ExceptionHandler",
             dependencies: []),
-        .testTarget(
-            name: "ExceptionHandlerTests",
-            dependencies: ["ExceptionHandler"]),
     ]
 )
