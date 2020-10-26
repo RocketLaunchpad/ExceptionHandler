@@ -25,10 +25,11 @@
 
 #import <Foundation/Foundation.h>
 
-//! Project version number for RIObjectInspector.
-FOUNDATION_EXPORT double RIObjectInspectorVersionNumber;
+//! Project version number for ExceptionHandler.
+FOUNDATION_EXPORT double ExceptionHandlerVersionNumber;
 
-//! Project version string for RIObjectInspector.
-FOUNDATION_EXPORT const unsigned char RIObjectInspectorVersionString[];
+//! Project version string for ExceptionHandler.
+FOUNDATION_EXPORT const unsigned char ExceptionHandlerVersionString[];
 
 #import "../ObjcExceptionHandler.h"
+
